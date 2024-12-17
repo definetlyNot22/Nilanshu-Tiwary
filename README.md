@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nilanshu Tiwary</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img src align="right"alt="coding"width="400"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1800">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=definetlynot22&label=Profile%20views&color=0e75b6&style=flat" alt="definetlynot22" /> </p>
 
